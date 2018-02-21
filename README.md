@@ -1,0 +1,2 @@
+# OverseasEd-Online-Consulatncy-for-International-Students
+The objective of this project is to develop a web-based platform that enables international students to have access to all the necessary academic and financial resources in their destination country to assure a smooth transition at an affordable price. Overseas strives to provide exceptional service and support to achieve the highest customer satisfaction among competitors.
